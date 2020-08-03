@@ -6,8 +6,9 @@ Would you like to find me?
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/guilherme-orcezi)](https://www.linkedin.com/in/guilherme-orcezi)
 
-
-
+<a href="https://guilhermeorcezi.github.io/" target="_blank">
+<img src="https://img.shields.io/badge/-Portfolio-343434" " alt="Portfolio Badge">
+</a>
 
 
 <!--
