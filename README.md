@@ -1,7 +1,14 @@
-### Hi there 👋
+### "Olá pessoas!" \o/ 👋
+
+My name is Guilherme Orcezi, I'm from Brazil (🇧🇷) and I'm 20. I'm studying Systems Analysis and Development, interested in fullstack technology. I've been studying a lot about NodeJS and React, enjoying everything that wonderful Javascript has to offer, as I see a promising future for this stack with React Native on mobile.
+
+Would you like to find me?
+
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/guilherme-orcezi)](https://www.linkedin.com/in/guilherme-orcezi)
+
 
 <!--
-**guilhermeorcezi/guilhermeorcezi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**omariosouto/omariosouto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
