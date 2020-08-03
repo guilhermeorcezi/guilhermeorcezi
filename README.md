@@ -16,9 +16,7 @@ Would you like to find me?
 - :office_worker: Student searching for new opportunities
 - :blue_heart: Techs: React.js, React Native, Node.js, TypeScript, Gatsby, etc.
 
-[![Portfolio Color](https://img.shields.io/badge/-Portfolio-34343?style=flat-square&link=https://guilhermeorcezi.github.io/)](https://guilhermeorcezi.github.io/)
-
-> :octocat: [portfolio guilhermeorcezi](https://guilhermeorcezi.github.io)
+:octocat: [portfolio guilhermeorcezi](https://guilhermeorcezi.github.io)
 
 <!--
 **guilhermeorcezi/guilhermeorcezi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
