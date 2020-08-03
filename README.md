@@ -6,9 +6,12 @@ Would you like to find me?
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/guilherme-orcezi)](https://www.linkedin.com/in/guilherme-orcezi)
 
+[(https://img.shields.io/badge/-Portfolio-343434link=https://guilhermeorcezi.github.io/)]
+
+
 
 <!--
-**omariosouto/omariosouto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**guilhermeorcezi/guilhermeorcezi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
