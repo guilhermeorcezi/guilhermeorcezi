@@ -14,7 +14,7 @@ Would you like to find me?
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:guilhermeorcezi@gmail.com)](mailto:guilhermeorcezi@gmail.com)
 
 - :office_worker: Student searching for new opportunities
-- :blue_heart: Techs: React.js, React Native, Node.js, TypeScript, Gatsby, etc.
+- :blue_heart: Techs: ReactJS, NextJS, React Native, NodeJS, TypeScript, etc.
 
 :octocat: [My Portfolio](https://guilhermeorcezi.github.io)
 
