@@ -13,7 +13,7 @@ Would you like to find me?
 [![Telegram Badge](https://img.shields.io/badge/-Telegram-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=telegram&logoColor=white&link=https://t.me/guilhermeorcezi)](https://t.me/guilhermeorcezi)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:guilhermeorcezi@gmail.com)](mailto:guilhermeorcezi@gmail.com)
 
-- :office_worker: Student searching for new opportunities
+- :office_worker: Fullstack developer at Glad (focusing on frontend and mobile)
 - :blue_heart: Techs: ReactJS, NextJS, React Native, NodeJS, TypeScript, etc.
 
 :octocat: [My Portfolio](https://guilhermeorcezi.github.io)
