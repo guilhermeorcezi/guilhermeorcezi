@@ -2,7 +2,7 @@
 
 ## Hello 👋
 
-I'm Guilherme Orcezi, and I live in Brazil (🇧🇷). I graduated in Systems Analysis and Development at the end of 2020. I study a lot about NodeJS and React, taking advantage of everything that the wonderful Javascript has to offer, I see a promising future for this stack with React Native on mobile and full strack technology. I'm always interested in more! <b>Student of the 13th class of the Rocketseat GoStack bootcamp. </b>
+I'm Guilherme Orcezi, I live in Brazil (🇧🇷) and I graduated in Systems Analysis and Development at the end of 2020. I study a lot about NodeJS and React, taking advantage of everything that the wonderful Javascript has to offer, I see a promising future for this stack with React Native on mobile and full strack technology. I'm always interested in more! <b>Student of the 13th class of the Rocketseat GoStack bootcamp. </b>
 
 Would you like to find me?
 
