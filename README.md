@@ -12,6 +12,8 @@ Would you like to find me?
 [![Whatsapp Badge](https://img.shields.io/badge/-Whatsapp-4CA143?style=flat-square&labelColor=4CA143&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=55012996158865&text=Olá!)](https://api.whatsapp.com/send?phone=55012996158865&text=Olá!)
 [![Telegram Badge](https://img.shields.io/badge/-Telegram-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=telegram&logoColor=white&link=https://t.me/guilhermeorcezi)](https://t.me/guilhermeorcezi)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:guilhermeorcezi@gmail.com)](mailto:guilhermeorcezi@gmail.com)
+
+- :office_worker: Fullstack developer at Eyecare Health
 - :blue_heart: Techs: ReactJS, NextJS, React Native, NodeJS, TypeScript, etc.
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
