@@ -16,9 +16,7 @@ Would you like to find me?
 - :office_worker: Fullstack developer at Eyecare Health
 - :blue_heart: Techs: ReactJS, NextJS, React Native, NodeJS, TypeScript, etc.
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=guilhermeorcezi&show_icons=true&count_private=true&theme=radical&hide=issues" />
-</a>
+
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guilhermeorcezi&layout=compact&theme=radical" />
 </a>
